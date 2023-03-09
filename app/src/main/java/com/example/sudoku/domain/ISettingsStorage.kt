@@ -1,8 +1,8 @@
-package com.example.sudoku.graphsudoku.domain
+package com.example.sudoku.domain
 
 interface ISettingsStorage {
-    suspend fun getSettings():SettingsStorageResult
-    suspend fun updateSettings(settings: Settings):SettingsStorageResult
+    suspend fun getSettings(): SettingsStorageResult
+    suspend fun updateSettings(settings: Settings): SettingsStorageResult
 
 }
 

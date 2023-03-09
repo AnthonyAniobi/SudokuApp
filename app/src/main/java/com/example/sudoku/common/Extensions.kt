@@ -1,9 +1,9 @@
-package com.example.sudoku.graphsudoku.common
+package com.example.sudoku.common
 
 import android.app.Activity
 import android.widget.Toast
 import com.example.sudoku.R
-import com.example.sudoku.graphsudoku.domain.Difficulty
+import com.example.sudoku.domain.Difficulty
 
 internal fun Activity.makeToast(message: String){
     Toast.makeText(

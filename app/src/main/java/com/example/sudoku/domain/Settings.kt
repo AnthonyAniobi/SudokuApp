@@ -1,4 +1,4 @@
-package com.example.sudoku.graphsudoku.domain
+package com.example.sudoku.domain
 
 data class Settings(
     val difficulty: Difficulty,

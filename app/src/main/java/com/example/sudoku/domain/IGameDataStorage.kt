@@ -1,4 +1,4 @@
-package com.example.sudoku.graphsudoku.domain
+package com.example.sudoku.domain
 
 interface IGameDataStorage {
     suspend fun updateGame(game: SudokuPuzzle): GameStorageResult

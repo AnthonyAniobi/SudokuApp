@@ -1,4 +1,4 @@
-package com.example.sudoku.graphsudoku.domain
+package com.example.sudoku.domain
 
 interface IStatisticsRepository {
     suspend fun getStatistics(

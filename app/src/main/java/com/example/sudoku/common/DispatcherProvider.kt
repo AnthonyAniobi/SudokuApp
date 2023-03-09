@@ -1,4 +1,4 @@
-package com.example.sudoku.graphsudoku.common
+package com.example.sudoku.common
 
 import kotlin.coroutines.CoroutineContext
 

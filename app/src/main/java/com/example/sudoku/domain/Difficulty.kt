@@ -1,4 +1,4 @@
-package com.example.sudoku.graphsudoku.domain
+package com.example.sudoku.domain
 
 enum class Difficulty(val modifier:Double) {
     EASY(0.50),
