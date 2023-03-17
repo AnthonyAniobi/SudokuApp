@@ -11,6 +11,6 @@ message GameSettings{
     UNKNOWN = 0;
     EASY = 1;
     MEDIUM = 2;
-    DIFFICULTY = 3;
+    HARD = 3;
   }
 }
